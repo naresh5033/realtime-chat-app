@@ -23,7 +23,7 @@
     "date-fns": "^2.29.3",
     "encoding": "^0.1.13",
     "eslint": "8.37.0",
-    "eslint-config-next": "^12.0.4",
+    "eslint-config-next": "^13.2.4",
     "lucide-react": "^0.129.0",
     "nanoid": "^4.0.2",
     "next": "13.2.4",
