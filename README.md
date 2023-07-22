@@ -100,4 +100,4 @@ A modern full-stack nextjs 13 project, with tailwindcss, next auth, reddis db, p
 
 - after the deployment add the domain url into the google console - /api/auth/callback/google
 
-- the app is deployed in versel and the deployed url is https://friendszone.vercel.app
+- the app is deployed in versel and the [deployed url is](https://realtime-chat-sepia.vercel.app)
